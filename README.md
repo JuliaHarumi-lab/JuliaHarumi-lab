@@ -1,6 +1,6 @@
 # Olá! Eu sou a Júlia Harumi
 
-Sou Desenvolvedora Backend Sênior com mais de 14 anos de experiência em tecnologia, com foco no setor financeiro. Atuo com **Java**, **Spring Boot**, **SQL Server**, **APIs REST** e **microsserviços**, com forte vivência em **sustentação de sistemas críticos**, análise de bugs e liderança técnica em squads ágeis.
+Sou Analista de Sistemas com mais de 12 anos de experiência em tecnologia, com foco no setor financeiro. Atuo com **Java**, **Spring Boot**, **SQL Server**, **APIs REST** e **microsserviços**, com forte vivência em **sustentação de sistemas críticos**, análise de bugs e liderança técnica em squads ágeis.
 
 Atualmente, venho aprofundando meus conhecimentos em **AWS**, **DevOps**, **Golang** e **Angular**, buscando sempre aliar tecnologia, performance e valor de negócio.
 
